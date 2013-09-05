@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Class-Path: jnn-1.6.jar jdom-1.0.jar jdom-1.1.jar js-1.7R1.jar jts-1.1
+ 1.jar Jama-1.0.3.jar jtar-1.0.4.jar junit-4.8.2.jar xpp3-1.1.4c.jar g
+ t-api-2.7.4.jar gt-cql-2.7.4.jar gt-wms-2.7.4.jar gt-xml-2.7.4.jar jy
+ thon-2.5.2.jar velocity-1.7.jar gt-data-2.7.4.jar gt-main-2.7.4.jar n
+ etcdf-4.2.20.jar nujan-1.4.1.1.jar opendap-2.2.2.jar vecmath-1.3.2.ja
+ r xstream-1.4.2.jar hsqldb-1.8.0.7.jar htmlparser-1.6.jar jai-core-1.
+ 1.3.jar jcommon-1.0.16.jar commons-cli-1.2.jar gt-render-2.7.4.jar ja
+ i-codec-1.1.3.jar javahelp-2.0.02.jar jide-dock-3.3.7.jar servlet-api
+ -2.5.jar slf4j-api-1.6.1.jar xmlpull-1.1.3.1.jar xpp3_min-1.1.4c.jar 
+ commons-lang-2.4.jar gt-geotiff-2.7.4.jar gt-opengis-2.7.4.jar jide-g
+ rids-3.3.7.jar commons-codec-1.2.jar gt-coverage-2.7.4.jar gt-metadat
+ a-2.7.4.jar jfreechart-1.0.13.jar jide-action-3.3.7.jar jide-common-3
+ .3.7.jar slf4j-jdk14-1.6.1.jar commons-pool-1.5.4.jar gt-epsg-hsql-2.
+ 7.4.jar gt-shapefile-2.7.4.jar jsr-275-1.0-beta-2.jar gt-referencing-
+ 2.7.4.jar jcip-annotations-1.0.jar unidataCommon-4.2.20.jar commons-l
+ ogging-1.0.4.jar jide-components-3.3.7.jar mlibwrapper-jai-1.1.3.jar 
+ commons-httpclient-3.1.jar imageio-ext-tiff-1.0.8.jar jai-imageio-1.2
+ -20090918.jar commons-collections-3.2.1.jar imageio-ext-utilities-1.0
+ .8.jar clibwrapper-jiio-1.2-20090918.jar ceres-core-0.13.2.jar ceres-
+ binding-0.13.2.jar ceres-glayer-0.13.2.jar ceres-jai-0.13.2.jar beam-
+ core-4.11.jar beam-envisat-reader-1.5.2.jar beam-gpf-4.11.jar beam-ne
+ tcdf-1.1.2.jar beam-aatsr-sst-1.5.1.jar beam-alos-reader-1.3.1.jar be
+ am-atsr-reader-1.0.3.jar beam-avhrr-reader-1.2.1.jar beam-chris-reade
+ r-1.7.1.jar beam-cluster-analysis-1.1.2.jar beam-collocation-1.4.1.ja
+ r beam-csv-dataio-4.11.jar beam-flhmci-1.6.204.jar beam-geotiff-1.2.2
+ .jar beam-getasse30-reader-1.0.1.jar beam-hdf5-writer-1.0.1.jar beam-
+ landsat-reader-1.3.2.jar beam-meris-brr-2.3.2.jar beam-meris-case2-re
+ gional-1.5.8.jar beam-meris-cloud-1.6.2.jar beam-meris-glint-1.2.2.ja
+ r beam-meris-l2auxdata-1.2.2.jar beam-meris-ndvi-1.3.2.jar beam-meris
+ -radiometry-1.1.2.jar beam-meris-sdr-2.3.2.jar beam-meris-smac-1.5.20
+ 5.jar beam-merisl3-reader-1.2.2.jar beam-modis-reader-1.3.1.jar beam-
+ opendap-1.0.jar beam-pconvert-1.4.1.jar beam-pgx-reader-1.0.jar beam-
+ pixel-extraction-1.3.jar beam-processing-4.11.jar beam-scripting-4.11
+ .jar beam-spot-vgt-reader-1.2.3.jar beam-statistics-op-1.0.jar beam-t
+ emporal-percentile-op-1.0.jar beam-time-series-tool-3.0.jar beam-ui-4
+ .11.jar beam-unmix-1.2.1.jar beam-visat-rcp-4.11.jar ceres-binio-0.13
+ .2.jar ceres-metadata-0.13.2.jar ceres-ui-0.13.2.jar flint-processor-
+ 1.2.jar seadas-reader-1.4.jar
+Main-Class: Binning
+
